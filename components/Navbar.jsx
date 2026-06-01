@@ -8,7 +8,7 @@ export default function Navbar() {
           href="/"
           className="text-lg font-semibold tracking-widest uppercase text-neutral-900 hover:text-neutral-600 transition-colors duration-200"
         >
-          Buzos Store
+          Buzos AURA
         </Link>
 
         <ul className="flex items-center gap-8 text-xs font-medium tracking-widest uppercase text-neutral-500">
