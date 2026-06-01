@@ -4,7 +4,7 @@
     "nombre": "Buzo Clásico Negro",
      "slug": "buzo-clasico-negro",
     "precio": 19990,
-    "imagen": "/productos/buzo1.jpg",
+    "imagen": "/productos/buzo-clasico-negro.jpg",
     "descripcion": "Buzo básico de algodón en color negro. Corte regular, ideal para el día a día."
   },
   {
@@ -12,7 +12,7 @@
     "nombre": "Buzo Oversize Gris Melange",
     "slug": "buzo-oversize-gris-melange",
     "precio": 24990,
-    "imagen": "/productos/buzo2.jpg",
+    "imagen": "/productos/buzo-oversize-gris-melange.jpg",
     "descripcion": "Buzo oversize en tela melange gris. Amplio y cómodo, perfecto para un look relajado."
   },
   {
@@ -20,7 +20,7 @@
     "nombre": "Buzo con Capucha Azul Marino",
     "slug": "buzo-con-capucha-azul-marino",
     "precio": 22990,
-    "imagen": "/productos/buzo3.jpg",
+    "imagen": "/productos/buzo-con-capucha-azul-marino.jpg",
     "descripcion": "Hoodie con capucha y bolsillo canguro en azul marino. Tela gruesa ideal para el invierno."
   },
   {
@@ -28,7 +28,7 @@
     "nombre": "Buzo Universitario Rojo",
     "slug": "buzo-universitario-rojo",
     "precio": 18990,
-    "imagen": "/productos/buzo4.jpg",
+    "imagen": "/productos/buzo-universitario-rojo.jpg",
     "descripcion": "Buzo estilo universitario en rojo con puños y cintura en canalé. Clásico y resistente."
   },
   {
@@ -36,7 +36,7 @@
     "nombre": "Buzo Crop Blanco",
     "slug": "buzo-crop-blanco",
     "precio": 21990,
-    "imagen": "/productos/buzo5.jpg",
+    "imagen": "/productos/buzo-crop-blanco.jpg",
     "descripcion": "Buzo cropped en blanco. Diseño corto y moderno, combinable con cualquier outfit."
   },
   {
@@ -44,7 +44,7 @@
     "nombre": "Buzo Estampado Montaña",
     "slug": "buzo-estampado-montana",
     "precio": 27990,
-    "imagen": "/productos/buzo6.jpg",
+    "imagen": "/productos/buzo-estampado-montana.jpg",
     "descripcion": "Buzo con estampado de montañas en tono negro y blanco. Ideal para los amantes del outdoor."
   },
   {
@@ -52,7 +52,7 @@
     "nombre": "Buzo Tie-Dye Morado",
     "slug": "buzo-tie-dye-morado",
     "precio": 26990,
-    "imagen": "/productos/buzo7.jpg",
+    "imagen": "/productos/buzo-tie-dye-morado.jpg",
     "descripcion": "Buzo con efecto tie-dye en tonos morado y lila. Pieza única con teñido artesanal."
   },
   {
@@ -60,7 +60,7 @@
     "nombre": "Buzo Básico Verde Oliva",
     "slug": "buzo-basico-verde-oliva",
     "precio": 17990,
-    "imagen": "/productos/buzo8.jpg",
+    "imagen": "/productos/buzo-basico-verde-oliva.jpg",
     "descripcion": "Buzo liso en verde oliva, de algodón 100%. Versátil y cómodo para cualquier ocasión."
   },
   {
@@ -68,7 +68,7 @@
     "nombre": "Buzo Bordado Floral",
     "slug": "buzo-bordado-floral",
     "precio": 31990,
-    "imagen": "/productos/buzo9.jpg",
+    "imagen": "/productos/buzo-bordado-floral.jpg",
     "descripcion": "Buzo color crema con bordado floral en el pecho. Detalle artesanal que lo hace especial."
   },
   {
@@ -76,7 +76,7 @@
     "nombre": "Buzo Deportivo Negro Dry-Fit",
     "slug": "buzo-deportivo-negro-dry-fit",
     "precio": 23990,
-    "imagen": "/productos/buzo10.jpg",
+    "imagen": "/productos/buzo-deportivo-negro-dry-fit.jpg",
     "descripcion": "Buzo deportivo en tela dry-fit negro. Ligero y transpirable, ideal para entrenamientos."
   },
   {
@@ -84,7 +84,7 @@
     "nombre": "Buzo Vintage Café",
     "slug": "buzo-vintage-cafe",
     "precio": 25990,
-    "imagen": "/productos/buzo11.jpg",
+    "imagen": "/productos/buzo-vintage-cafe.jpg",
     "descripcion": "Buzo con estética vintage en tono café desgastado. Estampado retro en el centro."
   },
   {
@@ -92,7 +92,7 @@
     "nombre": "Buzo Polar Gris Oscuro",
     "slug": "buzo-polar-gris-oscuro",
     "precio": 34990,
-    "imagen": "/productos/buzo12.jpg",
+    "imagen": "/productos/buzo-polar-gris-oscuro.jpg",
     "descripcion": "Buzo polar de doble capa en gris oscuro. Máximo abrigo para los días más fríos."
   }
 ]
